@@ -1,4 +1,10 @@
 salam 
 khobi
 hello
+<<<<<<< HEAD
 hnbgfhjku
+=======
+hnbgfhjku
+gdgfdg
+masreg
+>>>>>>> origin/master
